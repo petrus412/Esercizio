@@ -2722,3 +2722,307 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.11-15.19.28:787][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.02.11-15.19.31:369][530]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2021.02.11-15.19.31:369][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.03.19:074][819]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint2)
+[2021.02.11-16.03.21:238][ 75]Cmd: SELECT NONE
+[2021.02.11-16.03.26:415][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prova/Test" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/prova/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.11-16.03.26:431][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.02.11-16.03.26:451][691]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/Test9A459E164EF434EB4C0BD48C8A72B07E.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/prova/Test.umap'
+[2021.02.11-16.03.26:498][691]AssetCheck: New page: Asset Save: Test
+[2021.02.11-16.03.26:498][691]LogContentValidation: Display: Validating World /Game/prova/Test.Test
+[2021.02.11-16.08.32:629][ 38]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Andrea/Downloads/mutant.fbx)
+[2021.02.11-16.08.32:684][ 38]LogFbx: Loading FBX Scene from C:/Users/Andrea/Downloads/mutant.fbx
+[2021.02.11-16.08.32:724][ 38]LogFbx: FBX Scene Loaded Succesfully
+[2021.02.11-16.08.34:426][ 38]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.02.11-16.08.34:471][ 38]LogFbx: Valid bind pose for Pose (skinCluster1) - MutantMesh
+[2021.02.11-16.08.34:583][ 38]LogMaterial: Display: Material /Game/Ai/mutant_M.mutant_M needed to have new flag set bUsedWithSkeletalMesh !
+[2021.02.11-16.08.34:584][ 38]LogMaterial: Display: Missing cached shader map for material mutant_M, compiling. 
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.02.11-16.08.34:617][ 38]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.02.11-16.08.34:793][ 38]LogTexture: Display: Building textures: Mutant_diffuse (AutoDXT, 2048X2048)
+[2021.02.11-16.08.35:817][ 38]LogTexture: Display: Building textures: Mutant_normal (BC5, 2048X2048)
+[2021.02.11-16.08.36:029][ 38]LogMaterial: Display: Missing cached shader map for material mutant_M, compiling. 
+[2021.02.11-16.08.36:050][ 38]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 39
+[2021.02.11-16.08.36:050][ 38]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 35
+[2021.02.11-16.08.36:050][ 38]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 31
+[2021.02.11-16.08.36:050][ 38]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 27
+[2021.02.11-16.08.36:050][ 38]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2021.02.11-16.08.36:053][ 38]LogFbx: Triangulating skeletal mesh MutantMesh
+[2021.02.11-16.08.36:443][ 38]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2021.02.11-16.08.36:443][ 38]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2021.02.11-16.08.36:443][ 38]LogFbx: Warning: Bones digested - 37  Depth of hierarchy - 12
+[2021.02.11-16.08.36:496][ 38]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2021.02.11-16.08.36:750][ 38]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2021.02.11-16.08.36:750][ 38]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2021.02.11-16.08.36:750][ 38]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.02.11-16.08.36:750][ 38]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.02.11-16.08.36:824][ 38]LogSkeletalMesh: Section 0: 6953 vertices, 31 active bones
+[2021.02.11-16.08.36:825][ 38]LogSkeletalMesh: Section 0: Material=0, 11267 triangles
+[2021.02.11-16.08.36:866][ 38]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2021.02.11-16.08.36:867][ 38]LogSkeletalMesh: Building Skeletal Mesh mutant...
+[2021.02.11-16.08.37:140][ 38]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.02.11-16.08.37:140][ 38]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.02.11-16.08.37:213][ 38]LogSkeletalMesh: Section 0: 6953 vertices, 31 active bones
+[2021.02.11-16.08.37:215][ 38]LogSkeletalMesh: Section 0: Material=0, 11267 triangles
+[2021.02.11-16.08.37:247][ 38]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.02.11-16.08.37:247][ 38]LogSkeletalMesh: Built Skeletal Mesh [0.38s] /Game/Ai/mutant.mutant
+[2021.02.11-16.08.37:302][ 38]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.02.11-16.08.37:302][ 38]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.02.11-16.08.37:302][ 38]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.08.37:302][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.08.37:337][ 38]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.02.11-16.08.37:337][ 38]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.02.11-16.08.37:337][ 38]FBXImport: Warning: The following bones are missing from the bind pose:
+Mutant:HeadTop_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.02.11-16.08.37:386][ 38]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.02.11-16.08.39:577][257]LogSlate: Window 'Message Log' being destroyed
+[2021.02.11-16.08.39:580][257]LogSlate: Window 'Message Log' being destroyed
+[2021.02.11-16.08.44:378][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.02.11-16.08.45:336][828]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.11-16.08.45:419][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.02.11-16.08.45:438][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.02.11-16.08.45:449][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.11-16.08.46:380][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.11-16.08.47:339][920]LogSlate: Window 'Save Content' being destroyed
+[2021.02.11-16.08.47:366][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/mutant" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant.uasset" SILENT=true
+[2021.02.11-16.08.47:405][920]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/mutant688A61604B8FCD8C471B02ACEABBBA2A.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant.uasset'
+[2021.02.11-16.08.47:410][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/Mutant_diffuse" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/Mutant_diffuse.uasset" SILENT=true
+[2021.02.11-16.08.47:689][920]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/Mutant_diffuseBA2C878A496AEEBAA9EFB7864CB194CA.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/Mutant_diffuse.uasset'
+[2021.02.11-16.08.47:696][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/mutant_M" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant_M.uasset" SILENT=true
+[2021.02.11-16.08.47:703][920]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/mutant_MA86CF36D45704571FB5AF5A0A8D6E0E5.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant_M.uasset'
+[2021.02.11-16.08.47:708][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/Mutant_normal" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/Mutant_normal.uasset" SILENT=true
+[2021.02.11-16.08.48:013][920]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/Mutant_normalBCE4F4284F055F2ABE1B4D9E0B9A1176.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/Mutant_normal.uasset'
+[2021.02.11-16.08.48:021][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/mutant_PhysicsAsset" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant_PhysicsAsset.uasset" SILENT=true
+[2021.02.11-16.08.48:031][920]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/mutant_PhysicsAsset5A89258D498327A17034B599D2B62EF3.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant_PhysicsAsset.uasset'
+[2021.02.11-16.08.48:032][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/mutant_Skeleton" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant_Skeleton.uasset" SILENT=true
+[2021.02.11-16.08.48:034][920]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/mutant_SkeletonA2B2A0E14B389C2551F385BD083C11B2.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant_Skeleton.uasset'
+[2021.02.11-16.08.48:063][920]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.11-16.08.48:063][920]LogContentValidation: Display: Validating SkeletalMesh /Game/Ai/mutant.mutant
+[2021.02.11-16.08.48:063][920]LogContentValidation: Display: Validating Texture2D /Game/Ai/Mutant_diffuse.Mutant_diffuse
+[2021.02.11-16.08.48:063][920]LogContentValidation: Display: Validating Material /Game/Ai/mutant_M.mutant_M
+[2021.02.11-16.08.48:063][920]LogContentValidation: Display: Validating Texture2D /Game/Ai/Mutant_normal.Mutant_normal
+[2021.02.11-16.08.48:063][920]LogContentValidation: Display: Validating PhysicsAsset /Game/Ai/mutant_PhysicsAsset.mutant_PhysicsAsset
+[2021.02.11-16.08.48:063][920]LogContentValidation: Display: Validating Skeleton /Game/Ai/mutant_Skeleton.mutant_Skeleton
+[2021.02.11-16.08.50:725][232]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ai/AiCharacter.AiCharacter
+[2021.02.11-16.08.52:539][400]LogSlate: Window 'AiCharacter' being destroyed
+[2021.02.11-16.08.57:969][991]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton mutant_Skeleton, removing AnimBP from actor.
+[2021.02.11-16.08.57:970][991]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton mutant_Skeleton, removing AnimBP from actor.
+[2021.02.11-16.08.57:970][991]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton mutant_Skeleton, removing AnimBP from actor.
+[2021.02.11-16.08.57:970][991]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton mutant_Skeleton, removing AnimBP from actor.
+[2021.02.11-16.09.02:789][559]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.11-16.09.15:677][ 32]BlueprintLog: New page: Compile AiCharacter
+[2021.02.11-16.09.15:721][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.02.11-16.09.16:180][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/AiCharacter" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/AiCharacter.uasset" SILENT=true
+[2021.02.11-16.09.16:199][ 81]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/AiCharacter139FB011469488EA0BC9129CCBFDCD51.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/AiCharacter.uasset'
+[2021.02.11-16.09.16:208][ 81]AssetCheck: New page: Asset Save: AiCharacter
+[2021.02.11-16.09.16:208][ 81]LogContentValidation: Display: Validating Blueprint /Game/Ai/AiCharacter.AiCharacter
+[2021.02.11-16.09.19:632][487]LogEditorViewport: Clicking on Actor (LMB): AiCharacter_C (AiCharacter)
+[2021.02.11-16.09.21:320][677]LogEditorViewport: Clicking on Actor (LMB): AiCharacter_C (AiCharacter)
+[2021.02.11-16.09.30:870][806]Cmd: SELECT NONE
+[2021.02.11-16.09.37:984][377]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.11-16.09.37:998][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.11-16.09.37:998][377]PIE: New page: PIE session: Test (11 feb 2021, 18:09:37)
+[2021.02.11-16.09.38:020][377]LogPlayLevel: Creating play world package: /Game/prova/UEDPIE_0_Test
+[2021.02.11-16.09.38:023][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003335s)
+[2021.02.11-16.09.38:024][377]LogAIModule: Creating AISystem for world Test
+[2021.02.11-16.09.38:024][377]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B8D2F19000), frame # 224377
+[2021.02.11-16.09.38:024][377]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B88CD21800), frame # 224377
+[2021.02.11-16.09.38:024][377]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2021.02.11-16.09.38:024][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/prova/Test.Test to /Game/prova/UEDPIE_0_Test.Test (0.004372s)
+[2021.02.11-16.09.38:040][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.02.11-16.09.38:043][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.11-16.09.38:043][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.11-16.09.38:043][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.11-16.09.38:044][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.11-16.09.38:044][377]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.11-16.09.38:044][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.11-16.09.38:044][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.11-16.09.38:044][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.11-16.09.38:044][377]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.11-16.09.38:044][377]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.11-16.09.38:048][377]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.11-16.09.38:048][377]LogAudioMixer: Display: 1: FrontRight
+[2021.02.11-16.09.38:063][377]LogAudioMixer: Display: Using Audio Device Altoparlanti (2- Wireless Stereo Headset)
+[2021.02.11-16.09.38:063][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.11-16.09.38:063][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.11-16.09.38:063][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.11-16.09.38:063][377]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.11-16.09.38:074][377]LogInit: FAudioDevice initialized.
+[2021.02.11-16.09.38:079][377]LogLoad: Game class is 'BP_gamemode_C'
+[2021.02.11-16.09.38:081][377]LogWorld: Bringing World /Game/prova/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2021.02.11-17.09.38
+[2021.02.11-16.09.38:081][377]LogWorld: Bringing up level for play took: 0.001194
+[2021.02.11-16.09.38:081][377]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.02.11-16.09.38:084][377]PIE: Server logged in
+[2021.02.11-16.09.38:084][377]PIE: Play in editor total start time 0,087 seconds.
+[2021.02.11-16.09.42:941][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.11-16.09.42:941][954]LogWorld: BeginTearingDown for /Game/prova/UEDPIE_0_Test
+[2021.02.11-16.09.42:941][954]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.09.42:942][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.09.42:950][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.11-16.09.42:953][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.09.42:978][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.11-16.09.42:979][954]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B88CD21800), frame # 224954
+[2021.02.11-16.09.42:979][954]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B8D2F19000), frame # 224954
+[2021.02.11-16.09.42:981][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.02.11-16.09.43:020][956]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.02.11-16.10.09:255][ 36]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.02.11-16.10.09:280][ 36]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.02.11-16.10.09:433][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.10.09:441][ 36]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.02.11-16.10.09:698][ 36]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.10.10:182][ 36]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.11-16.10.12:870][352]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.02.11-16.10.12:887][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.10.12:909][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.10.13:407][352]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.11-16.10.13:686][384]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.02.11-16.10.13:689][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.10.13:714][384]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.10.13:963][385]LogRenderer: Reallocating scene render targets to support 1208x896 Format 10 NumSamples 1 (Frame:1).
+[2021.02.11-16.10.18:120][852]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2021.02.11-16.10.18:123][852]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.10.18:145][852]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.10.26:935][858]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.10.48:769][394]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2021.02.11-16.10.48:794][394]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.02.11-16.10.48:801][394]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.10.56:322][168]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.10.56:323][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.10.59:940][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prova/Test" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/prova/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.11-16.11.00:041][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.02.11-16.11.00:055][568]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/Test80D79D3A401829313BFE03B4C6DA12C0.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/prova/Test.umap'
+[2021.02.11-16.11.00:085][568]AssetCheck: New page: Asset Save: Test
+[2021.02.11-16.11.00:085][568]LogContentValidation: Display: Validating World /Game/prova/Test.Test
+[2021.02.11-16.11.03:971][ 13]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Ai/mutant.mutant
+[2021.02.11-16.11.03:975][ 13]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.11.03:998][ 13]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.11.09:871][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/mutant" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant.uasset" SILENT=true
+[2021.02.11-16.11.09:908][647]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/mutantE27F4ADD4C0C54B6B9F88A98FBE3AD26.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/mutant.uasset'
+[2021.02.11-16.11.09:917][647]AssetCheck: New page: Asset Save: mutant
+[2021.02.11-16.11.09:917][647]LogContentValidation: Display: Validating SkeletalMesh /Game/Ai/mutant.mutant
+[2021.02.11-16.11.14:152][140]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Ai/mutant_PhysicsAsset.mutant_PhysicsAsset
+[2021.02.11-16.11.14:156][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.11.16:019][308]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Ai/mutant_Skeleton.mutant_Skeleton
+[2021.02.11-16.11.16:023][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.11.16:042][308]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.11.20:986][850]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.11.20:986][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.11.21:564][910]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.11.21:564][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.11.23:261][102]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.11.23:261][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.11.41:657][205]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.11-16.11.41:677][205]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.02.11-16.11.51:346][205]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.02.11-16.11.57:847][205]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.02.11-16.12.01:000][551]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.02.11-16.12.02:730][551]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.02.11-16.12.04:370][724]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Ai/NewAnimBlueprint.NewAnimBlueprint
+[2021.02.11-16.12.04:374][724]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.12.04:651][724]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.12.24:569][ 30]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.12.24:569][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.12.24:622][ 30]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.12.24:622][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.12.25:146][ 90]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.12.25:146][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.12.25:604][136]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.12.25:604][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.12.52:465][246]BlueprintLog: New page: Compile NewAnimBlueprint
+[2021.02.11-16.12.52:467][246]LogBlueprint: Warning: [Compiler NewAnimBlueprint] Entry node  New State Machine  is not connected to state
+[2021.02.11-16.12.52:467][246]LogBlueprint: Warning: [Compiler NewAnimBlueprint] There was no entry state connection in  New State Machine
+[2021.02.11-16.12.52:531][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.02.11-16.12.52:894][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/NewAnimBlueprint" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/NewAnimBlueprint.uasset" SILENT=true
+[2021.02.11-16.12.52:902][282]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/NewAnimBlueprintBD78983C411AA3176827959C00B41CD6.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/NewAnimBlueprint.uasset'
+[2021.02.11-16.12.52:923][282]AssetCheck: New page: Asset Save: NewAnimBlueprint
+[2021.02.11-16.12.52:923][282]LogContentValidation: Display: Validating AnimBlueprint /Game/Ai/NewAnimBlueprint.NewAnimBlueprint
+[2021.02.11-16.13.05:522][779]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.05:522][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.05:527][779]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.05:527][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.05:609][779]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.05:609][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.16:022][534]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.16:022][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.16:027][534]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.16:027][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.16:112][534]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.16:112][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.23:000][337]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Ai/mutant_PhysicsAsset.mutant_PhysicsAsset
+[2021.02.11-16.13.23:006][337]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.13.25:566][557]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Ai/NewAnimBlueprint.NewAnimBlueprint
+[2021.02.11-16.13.25:570][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.13.25:809][557]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.13.26:850][658]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Ai/mutant.mutant
+[2021.02.11-16.13.26:853][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.13.26:876][658]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.13.31:766][181]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Ai/mutant_Skeleton.mutant_Skeleton
+[2021.02.11-16.13.31:769][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.11-16.13.31:788][181]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.02.11-16.13.35:419][575]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.35:419][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.35:833][616]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.35:834][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.36:580][697]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.36:580][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.36:585][697]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.36:585][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.36:668][697]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.36:668][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.37:299][757]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.37:299][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.38:074][840]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.02.11-16.13.38:074][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.11-16.13.41:957][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.02.11-16.13.43:153][278]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.11-16.13.46:440][278]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Ai/mutant.mutant
+	Asset Name: /Game/Ai/Mutant_diffuse.Mutant_diffuse
+	Asset Name: /Game/Ai/mutant_M.mutant_M
+	Asset Name: /Game/Ai/Mutant_normal.Mutant_normal
+	Asset Name: /Game/Ai/mutant_PhysicsAsset.mutant_PhysicsAsset
+	Asset Name: /Game/Ai/mutant_Skeleton.mutant_Skeleton
+	Asset Name: /Game/Ai/NewAnimBlueprint.NewAnimBlueprint
+[2021.02.11-16.13.46:945][278]LogMaterial: Display: Missing cached shader map for material mutant_M, compiling. 
+[2021.02.11-16.13.46:946][278]LogMaterial: Warning: C:\Users\Andrea\Desktop\GitHub\Esercizio\Content\Ai\mutant_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.11-16.13.46:946][278]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.11-16.13.46:946][278]LogMaterial: Display: Missing cached shader map for material mutant_M, compiling. 
+[2021.02.11-16.13.46:947][278]LogMaterial: Warning: C:\Users\Andrea\Desktop\GitHub\Esercizio\Content\Ai\mutant_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.11-16.13.46:947][278]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.11-16.13.46:947][278]LogMaterial: Display: Missing cached shader map for material mutant_M, compiling. 
+[2021.02.11-16.13.46:948][278]LogMaterial: Warning: C:\Users\Andrea\Desktop\GitHub\Esercizio\Content\Ai\mutant_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.11-16.13.46:948][278]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.11-16.13.46:948][278]LogMaterial: Display: Missing cached shader map for material mutant_M, compiling. 
+[2021.02.11-16.13.46:949][278]LogMaterial: Warning: C:\Users\Andrea\Desktop\GitHub\Esercizio\Content\Ai\mutant_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.02.11-16.13.46:949][278]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.02.11-16.13.48:665][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.02.11-16.13.48:680][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.11-16.13.48:690][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.02.11-16.13.48:701][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.11-16.13.48:712][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.02.11-16.13.48:723][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.02.11-16.13.48:733][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.02.11-16.13.48:746][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.02.11-16.13.48:757][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.02.11-16.13.50:584][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ai/AiCharacter.AiCharacter
+[2021.02.11-16.13.57:312][193]BlueprintLog: New page: Compile AiCharacter
+[2021.02.11-16.13.57:356][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.02.11-16.13.57:641][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ai/AiCharacter" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/AiCharacter.uasset" SILENT=true
+[2021.02.11-16.13.57:659][220]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/AiCharacter870133B74F74ABF7E3FB0CAB55EBFD50.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Content/Ai/AiCharacter.uasset'
+[2021.02.11-16.13.57:671][220]AssetCheck: New page: Asset Save: AiCharacter
+[2021.02.11-16.13.57:672][220]LogContentValidation: Display: Validating Blueprint /Game/Ai/AiCharacter.AiCharacter
+[2021.02.11-16.21.00:284][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.11-16.21.00:287][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/prova/Test" FILE="C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/Autosaves/Game/prova/Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.11-16.21.00:310][991]LogSavePackage: Moving 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/Test_Auto19FD7C1A14B7C92920FCDEEA72668188F.tmp' to 'C:/Users/Andrea/Desktop/GitHub/Esercizio/Saved/Autosaves/Game/prova/Test_Auto1.umap'
+[2021.02.11-16.21.00:311][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/prova/Test' took 0.042
+[2021.02.11-16.21.00:311][991]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.042
